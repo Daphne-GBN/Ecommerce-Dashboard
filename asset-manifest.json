@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ecommerce-Dashboard/static/css/main.b344d86d.css",
+    "main.js": "/Ecommerce-Dashboard/static/js/main.84f3e1b3.js",
+    "index.html": "/Ecommerce-Dashboard/index.html",
+    "main.b344d86d.css.map": "/Ecommerce-Dashboard/static/css/main.b344d86d.css.map",
+    "main.84f3e1b3.js.map": "/Ecommerce-Dashboard/static/js/main.84f3e1b3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b344d86d.css",
+    "static/js/main.84f3e1b3.js"
+  ]
+}
